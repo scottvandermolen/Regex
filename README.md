@@ -1,4 +1,4 @@
-# Regular Expressions Library for ASP
+# Regular Expressions Function Library for ASP
 
 Perl-Compatible Regular Expressions are part of the PHP core. ASP also supports regular expressions through the RegExp object. This function library brings the various regular expressions functions from PHP to ASP.
 
